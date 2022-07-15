@@ -1,4 +1,4 @@
-# Szymon Kędra - Moja strona
+# Szymon Kędra - My Site
 
 ![Szymon](szymon.png)
 
@@ -6,6 +6,6 @@
 
 https://s5zee.github.io/homepage/
 
-## Opis
+## Description
 
-Projekt strony internetowej z podstawowymi informacjami
+Test Project, contains a site with basic information about me and other features, for example: navigation, table etc.
