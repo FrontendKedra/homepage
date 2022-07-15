@@ -1,0 +1,9 @@
+.section__photo {
+    border: 2px dotted grey;
+    border-radius: 30%
+    }
+
+.section__paragraph {
+        padding: 7px;
+        margin: 0 auto;
+    }

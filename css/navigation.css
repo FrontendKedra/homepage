@@ -1,0 +1,29 @@
+.navigation__listItem {
+    list-style: none;
+    margin: 5px;
+    padding: 0px;
+    }
+
+.navigation__link {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.navigation__link:visited {
+    color: rgb(122, 54, 104);
+}
+
+.navigation__link:focus {
+    outline: 4px double currentColor;
+}
+
+.navigation__link:hover {
+    color: red;
+}
+
+.navigation__link:active {
+    color: darkred;
+    outline: none;
+}

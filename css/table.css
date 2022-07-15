@@ -1,0 +1,17 @@
+.table {
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 30px;
+    margin: 35px auto;
+    color: black;
+    background-color: white;
+}
+
+.table__cell {
+    border: 2px solid blue;
+}
+
+.table__cell--header {
+    font-weight: 800;
+}
