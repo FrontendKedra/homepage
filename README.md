@@ -1,6 +1,8 @@
 # Szymon Kędra - My Site
 
-![Szymon](szymon.png)
+## Site preview
+
+![webscreenshot](images/homepagescreenshot.png)
 
 ## Demo
 
