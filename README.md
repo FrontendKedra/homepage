@@ -6,7 +6,7 @@
 
 ## Demo
 
-https://s5zee.github.io/homepage/
+https://frontendkedra.github.io/homepage/
 
 ## Description
 
